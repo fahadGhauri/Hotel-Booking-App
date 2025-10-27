@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import Heading from "./Heading";
-import GlobalStyle from "./styles/GlobalStyle";
+import GlobalStyle from "../styles/GlobalStyle";
 import Button from "./Button";
 
 const StyledErrorFallback = styled.main`
